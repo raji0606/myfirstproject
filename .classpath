@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-15">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry excluding="practicebusyqa/" kind="src" path="src"/>
+	<classpathentry excluding="Assignmentone.java|Factorial.java|Fibanosis.java|Greater.java|Leapornot.java|Multiplication.java|Palindrome.java|PositiveNegative.java|Reverseno.java|Sumnumbers.java|Swapping.java|Switchcase.java|Whileloop.java" kind="src" path="src/practicebusyqa"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
